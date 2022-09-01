@@ -6,6 +6,11 @@
            review="https://review.arrowos.net/"
            revision="refs/heads/arrow-13.0" />
   
+  <!-- GitHub (Evolution X) -->
+  <remote  name="evo"
+           fetch="https://github.com/Evolution-X"
+           revision="refs/heads/tiramisu" />
+  
   <remote  name="lineage"
            fetch="https://github.com/LineageOS"
           review="https://review.lineageos.org/"
