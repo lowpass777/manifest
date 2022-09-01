@@ -66,16 +66,6 @@
   <!-- Qcom hals -->
   <project path="hardware/qcom-caf/wlan" name="android_hardware_qcom-caf_wlan" remote="superior"/>
 
-  <!-- Audio hals -->
-  <project path="hardware/qcom-caf/sm8150/audio" name="android_hardware_qcom_audio" revision="thirteen-caf-sm8150" remote="superior" />
-  <project path="hardware/qcom-caf/msm8998/audio" name="android_hardware_qcom_audio" groups="qcom,legacy-qcom" revision="thirteen-caf-msm8998" remote="superior" />
-
-  <!-- Display hals -->
-  <project path="hardware/qcom-caf/msm8998/display" name="android_hardware_qcom_display" groups="qcom,legacy-qcom" revision="thirteen-caf-msm8998" remote="superior" />
-
-  <!-- Media hals -->
-  <project path="hardware/qcom-caf/msm8998/media" name="android_hardware_qcom_media" groups="qcom,legacy-qcom" revision="twelve-caf-msm8998" remote="superior" />
-
   <!-- Qcom vendor -->
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="superior" />
   <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="superior" />
